@@ -7,7 +7,7 @@ use Asus\RepoBase\Commons\Controller;
 class HomeController extends Controller
 {
     public function index() {
-        $name = 'DucTV44';
+        $name = 'TrungHV';
 
         $this->renderViewClient('home', [
             'name' => $name
