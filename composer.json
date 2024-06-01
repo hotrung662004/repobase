@@ -1,0 +1,9 @@
+{
+    "name": "asus/repo-base",
+    "autoload": {
+        "psr-4": {
+            "Asus\\RepoBase\\": "src/"
+        }
+    },
+    "require": {}
+}
